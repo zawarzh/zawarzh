@@ -2,7 +2,7 @@
 - 👀 I’m interested in Pervasive Computing, IoT, Human Activity Recognition, Ambient Assisting Living, Digital Health, Machine Learning, RFID, and Active Queue Management
 - 🌱 I’m currently working as Postdoctoral Research Fellow at  the School of Computer Sceince and Engineering, University of New South Wales Sydney Australia.
 - 💞️ I’m looking to collaborate on projects involving activity recognition, ubiquitous computing, machine learning, and digital health. 
-- 📫 How to reach me ... email:zawar.hussain@usnw.edu.au; zawar.hussain@mq.edu.au 
+- 📫 How to reach me ... email: zawar.hussain@usnw.edu.au; zawar.hussain@mq.edu.au 
 -  <a href="https://www.linkedin.com/in/zawar-hussain-099a96167/">LinkedIn</a>
 <!---
 zawarzh/zawarzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
